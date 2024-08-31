@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Object Detection with YOLOv4 and Voice Alerts</title>
+   
 </head>
 <body>
     <h1>Object Detection with YOLOv4 and Voice Alerts</h1>
